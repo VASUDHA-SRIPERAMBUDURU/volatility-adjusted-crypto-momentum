@@ -61,3 +61,17 @@ The framework emphasizes realistic execution modeling, turnover control, and cap
 - Cross-sectional long-short extension
 - Beta-hedging framework
 - Walk-forward out-of-sample validation
+
+---
+
+## Strategy Performance
+
+**Final Equity:** 5.17x  
+**Sharpe Ratio:** 1.08  
+**Max Drawdown:** -26%
+
+### Equity Curve
+![Equity Curve](equity_curve.png)
+
+### Drawdown
+![Drawdown](drawdown.png)
